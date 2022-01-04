@@ -1,0 +1,56 @@
+C:\Users\anabi\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\anabi\Desktop\project\project\bin\Debug\project.exe
+C:\Users\anabi\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\anabi\Desktop\project\project\bin\Debug\MySql.Data.xml
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.Form1.resources
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.exe
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.clientform.resources
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.homepage.resources
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.employee.resources
+C:\Users\anabi\Desktop\project\project\obj\Debug\project.roomform.resources
+E:\FCI\FCI4frist\advanced database\project\project\bin\Debug\project.exe.config
+E:\FCI\FCI4frist\advanced database\project\project\bin\Debug\project.exe
+E:\FCI\FCI4frist\advanced database\project\project\bin\Debug\project.pdb
+E:\FCI\FCI4frist\advanced database\project\project\bin\Debug\MySql.Data.xml
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.clientform.resources
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.employee.resources
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.homepage.resources
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.Properties.Resources.resources
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.roomform.resources
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.csproj.CopyComplete
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.exe
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.pdb
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.reservitionformm.resources
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.loginform.resources
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.clientadmin.resources
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.roomadmin.resources
+E:\FCI\FCI4frist\advanced database\project\project\obj\Debug\project.reservitionadmin.resources
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\bin\Debug\project.exe.config
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\bin\Debug\project.exe
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\bin\Debug\project.pdb
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\bin\Debug\MySql.Data.xml
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.clientadmin.resources
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.clientform.resources
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.employee.resources
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.homepage.resources
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.loginform.resources
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.reservitionadmin.resources
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.reservitionformm.resources
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.roomadmin.resources
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.roomform.resources
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.exe
+C:\Users\Mustafa18321635\Desktop\New folder (5)\project\project\project\obj\Debug\project.pdb
